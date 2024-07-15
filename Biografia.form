@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Biografia">
+  <grid id="27dc6" binding="Panel_Biografia" layout-manager="GridLayoutManager" row-count="12" column-count="4" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="1270" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-1756344"/>
+      <font name="Take Me On" size="14" style="1"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="9b267" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Take Me On" size="14" style="1"/>
+          <text value="BIOGRAFIA"/>
+        </properties>
+      </component>
+      <component id="3c73f" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="PRIMETIME" size="12" style="1"/>
+          <text value="Nombre:"/>
+        </properties>
+      </component>
+      <component id="9cdf5" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Times New Roman" size="14" style="1"/>
+          <text value="Mi nombre es Ariel Rodrigo Ashqui Gualichico"/>
+        </properties>
+      </component>
+      <component id="2bf1d" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="PRIMETIME" size="12" style="1"/>
+          <text value="Fecha de Nacimiento;"/>
+        </properties>
+      </component>
+      <component id="26a05" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Times New Roman" size="14" style="1"/>
+          <text value="Naci el 16 de septiembre del 2002 en la ciudad de Quito, Santa Prisca"/>
+        </properties>
+      </component>
+      <component id="2cf6a" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="PRIMETIME" size="12" style="1"/>
+          <text value="Educacion:"/>
+        </properties>
+      </component>
+      <component id="b7de8" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="5" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Times New Roman" size="14" style="1"/>
+          <text value="Soy Graduado en Mecanica Industrial, me gradue en el Colegio &quot;Central Tecnico&quot;"/>
+        </properties>
+      </component>
+      <component id="deb1a" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="PRIMETIME" size="12" style="1"/>
+          <text value="Edad:"/>
+        </properties>
+      </component>
+      <component id="60a22" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="6" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Times New Roman" size="14" style="1"/>
+          <text value="Actualmente tengo 21 años de edad"/>
+        </properties>
+      </component>
+      <hspacer id="da7d4">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <hspacer id="2dce">
+        <constraints>
+          <grid row="3" column="3" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <component id="70bcc" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="7" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="PRIMETIME" size="12" style="1"/>
+          <text value="Hobbies:"/>
+        </properties>
+      </component>
+      <component id="9a0a4" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="7" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Times New Roman" size="14" style="1"/>
+          <text value="Uno de los principales hobbies que tengo es realizar mixes con musicas (DJ)"/>
+        </properties>
+      </component>
+      <component id="bd7aa" class="javax.swing.JButton" binding="fotoHobbieButton" default-binding="true">
+        <constraints>
+          <grid row="10" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="PRIMETIME" size="12" style="1"/>
+          <text value="Foto-Hobbie"/>
+        </properties>
+      </component>
+      <vspacer id="4508f">
+        <constraints>
+          <grid row="11" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <vspacer id="acdac">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <component id="5974b" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="8" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Times New Roman" size="14" style="1"/>
+          <text value="Jugar videojuegos, Jugar Futbol, incluso me gusta salir a trotar todas las mañanas"/>
+        </properties>
+      </component>
+      <component id="1acc7" class="javax.swing.JButton" binding="SALIRButton" default-binding="true">
+        <constraints>
+          <grid row="10" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="PRIMETIME" size="12" style="1"/>
+          <text value="SALIR"/>
+        </properties>
+      </component>
+      <vspacer id="5f75">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <vspacer id="87c8b">
+        <constraints>
+          <grid row="9" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+    </children>
+  </grid>
+</form>
